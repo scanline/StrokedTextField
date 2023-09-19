@@ -1,0 +1,11 @@
+assets/img/
+assets/ttf/
+assets/openfl.svg
+docs/
+bin/
+node_modules/
+project.xml
+src/openfl/
+src/Main.hx
+package-lock.json
+package.json
